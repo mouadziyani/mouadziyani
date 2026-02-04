@@ -44,11 +44,13 @@ To become not just a developer, but a **creator of digital experiences** — bui
 
 ---
 
-## GitHub Stats
+## GitHub Stats (Live via Vercel)
 
-![GitHub Stats Fallback](https://raw.githubusercontent.com/mouadziyani/mouadziyani/main/fallback/github-stats.png)
-![Top Languages Fallback](https://raw.githubusercontent.com/mouadziyani/mouadziyani/main/fallback/top-langs.png)
-![Commit Activity Fallback](https://raw.githubusercontent.com/mouadziyani/mouadziyani/main/fallback/commit-streak.png)
+![Mouad's GitHub stats](https://mouadziyani.vercel.app/api?username=mouadziyani&show_icons=true&theme=radical)
+![Top Languages](https://mouadziyani.vercel.app/api/top-langs/?username=mouadziyani&layout=compact&theme=radical)
+![Commit Activity](https://mouadziyani-streak.vercel.app/?user=mouadziyani&theme=radical)
+
+> *Stats update automatically after each push/commit.*
 
 ---
 
