@@ -46,11 +46,15 @@ To become not just a developer, but a **creator of digital experiences** — bui
 
 ## GitHub Stats
 
+### Dynamic / Live (if Vercel is running)
 ![Mouad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mouadziyani&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mouadziyani&layout=compact&theme=radical)
+![Commit Activity](https://github-readme-streak-stats.herokuapp.com/?user=mouadziyani&theme=radical)
 
-### Commit Activity (Animated)
-![Mouad's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mouadziyani&theme=radical)
+### Static Fallback (if service paused)
+![GitHub Stats Fallback](https://raw.githubusercontent.com/mouadziyani/mouadziyani/main/fallback/github-stats.png)
+![Top Languages Fallback](https://raw.githubusercontent.com/mouadziyani/mouadziyani/main/fallback/top-langs.png)
+![Commit Activity Fallback](https://raw.githubusercontent.com/mouadziyani/mouadziyani/main/fallback/commit-streak.png)
 
 ---
 
@@ -59,6 +63,3 @@ To become not just a developer, but a **creator of digital experiences** — bui
 - Portfolio: [mouadziyani.com](https://mouadziyani.com/)  
 - Email: [mouadziyani.dev@gmail.com](mailto:mouadziyani.dev@gmail.com)
 
----
-
-> This repository is a **living story of learning, creating, and sharing** — a space where my growth as a **PHP/Laravel full-stack developer** unfolds.
