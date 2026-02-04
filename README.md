@@ -50,7 +50,8 @@ To become not just a developer, but a **creator of digital experiences** — bui
 ![Top Languages](https://mouadziyani.vercel.app/api/top-langs/?username=mouadziyani&layout=compact&theme=radical)
 ![Commit Activity](https://mouadziyani-streak.vercel.app/?user=mouadziyani&theme=radical)
 
-> *Stats update automatically after each push/commit.*
+> These stats **update automatically** every time I push commits to GitHub.  
+> No need to update README manually.
 
 ---
 
@@ -61,4 +62,4 @@ To become not just a developer, but a **creator of digital experiences** — bui
 
 ---
 
-> This repository is a **living story of learning, creating, and sharing** — a space where my growth as a **PHP/Laravel full-stack developer** unfolds.
+> This profile README is a **living story of learning, creating, and sharing** — showcasing my growth as a **PHP/Laravel full-stack developer**, with skills, live stats, and contributions automatically updated.
