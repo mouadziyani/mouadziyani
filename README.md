@@ -46,9 +46,9 @@ To become not just a developer, but a **creator of digital experiences** — bui
 
 ## GitHub Stats
 
-![Mouad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mouadziyani&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mouadziyani&layout=compact&theme=radical)
-![Commit Activity](https://github-readme-streak-stats.herokuapp.com/?user=mouadziyani&theme=radical)
+![GitHub Stats Fallback](https://raw.githubusercontent.com/mouadziyani/mouadziyani/main/fallback/github-stats.png)
+![Top Languages Fallback](https://raw.githubusercontent.com/mouadziyani/mouadziyani/main/fallback/top-langs.png)
+![Commit Activity Fallback](https://raw.githubusercontent.com/mouadziyani/mouadziyani/main/fallback/commit-streak.png)
 
 ---
 
