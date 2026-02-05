@@ -1,65 +1,75 @@
-# MOEUAED – My Web Development Journey
+<div align="center">
 
-Welcome to my world of code — where creativity meets logic, and every line I write builds something meaningful.
+# ⚡ SYSTEM OVERRIDE: ZIYANI MOUAD ACTIVATED ⚡
 
----
 
-## About Me
-I’m **Mouad Ziyani**, a passionate web development student at [YouCode].  
-Driven by curiosity and the power of creation, I focus on **learning and mastering modern web technologies**, with a goal to create **clean, responsive, and interactive applications**.  
 
----
+<img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=300&section=header&text=ZIYANI%20MOUAD&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Level%2099%20Full-Stack%20Architect&descAlignY=51&descSize=20" width="100%" />
 
-## Tech Stack & Skills
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Building+Digital+Universes;Full-Stack+Enthusiast;YouCode+Student;Turning+Coffee+into+Code)](https://git.io/typing-svg)
 
 ---
 
-## My Vision
-To become not just a developer, but a **creator of digital experiences** — building interfaces that feel alive, responsive, and full of personality.
+### 🕹️ PLAYER STATS (LIVE DATA)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mouadziyani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouadziyani&layout=compact&theme=tokyonight&hide_border=true" height="180px" />
+</p>
 
 ---
 
-## Philosophy
-> “Code is not just what I do — it’s how I express creativity, solve problems, and turn ideas into reality.”
+### 🛠️ ARSENAL (ANIMATED SKILLS)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,bootstrap&perline=6" /><br>
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,firebase,nodejs&perline=5" /><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,figma&perline=5" />
+</p>
 
 ---
 
-## GitHub Stats (Live via Vercel)
+### 🚀 CURRENT MISSION: ARCHITECTING THE WEB
+> **Status:** `Optimizing_Algorithms...`
+> **Location:** `Oujda, Morocco (YouCode Campus)`
+> **Specialty:** `Premium UI/UX & Robust Backends`
 
-![Mouad's GitHub stats](https://mouadziyani.vercel.app/api?username=mouadziyani&show_icons=true&theme=radical)
-![Top Languages](https://mouadziyani.vercel.app/api/top-langs/?username=mouadziyani&layout=compact&theme=radical)
-![Commit Activity](https://mouadziyani-streak.vercel.app/?user=mouadziyani&theme=radical)
+<div align="left">
 
-> These stats **update automatically** every time I push commits to GitHub.  
-> No need to update README manually.
+#### 🏮 Skill Progress Bars
+`HTML/CSS/JS` 
+![Progress](https://progress-bar.dev/95/?title=Mastery&color=red&width=400)
+`PHP/Laravel` 
+![Progress](https://progress-bar.dev/85/?title=Power&color=orange&width=400)
+`Coffee Consumption` 
+![Progress](https://progress-bar.dev/100/?title=Addiction&color=brinkpink&width=400)
+
+</div>
 
 ---
 
-## Connect with Me
-- LinkedIn: [Mouad Ziyani](https://www.linkedin.com/in/mouad-ziyani/)  
-- Portfolio: [mouadziyani.com](https://mouadziyani.com/)  
-- Email: [mouadziyani.dev@gmail.com](mailto:mouadziyani.dev@gmail.com)
+### 🎮 THE WORKSHOP (PROJECTS)
+
+| Project | Status | Tech Stack | Link |
+| :--- | :---: | :--- | :--- |
+| **Valorunex** | 🟢 Live | `Tailwind` `JS` | [View](https://mouadziyani.com) |
+| **Bankly** | 🟡 Dev | `PHP` `Laravel` | [Code](https://github.com/MOEUAED) |
+| **Minerva** | 🔴 Idle | `JavaScript` | [Demo](https://mouadziyani.com) |
 
 ---
 
-> This profile README is a **living story of learning, creating, and sharing** — showcasing my growth as a **PHP/Laravel full-stack developer**, with skills, live stats, and contributions automatically updated.
+### 🌌 ACTIVITY NEBULA
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MOEUAED&theme=tokyonight&hide_border=true)
+
+---
+
+### 🔗 LINK START! (CONNECT)
+<p align="center">
+<a href="https://www.linkedin.com/in/mouad-ziyani/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:mouadziyani.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://mouadziyani.com"><img src="https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+</p>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/master/assets/animated-line.gif" width="100%">
+
+</div>
