@@ -1,6 +1,6 @@
 <div align="center">
 
-### ⚡ SYSTEM OVERRIDE: ZIYANI MOUAD ⚡
+# ⚡ SYSTEM OVERRIDE: ZIYANI MOUAD ⚡
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&pause=1000&color=F70000&center=true&vCenter=true&width=800&height=100&lines=ZIYANI+MOUAD+ARCHITECT;SYSTEM+STATUS:+OPTIMIZED;FULL-STACK+ENGINEER">
