@@ -39,33 +39,6 @@
 
 ---
 
-### 🚀 SYSTEM OVERLOAD: ATTRIBUTE MATRIX
-<table border="0" width="100%">
-  <tr>
-    <td width="33%" align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" width="50" /><br>
-      <b><font color="#FF0000">VITALITY</font></b><br>
-      <img src="https://img.shields.io/badge/FRONTEND-95%25-red?style=for-the-badge&logo=polkadot&logoColor=white" /><br>
-      <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/master/assets/animated-line.gif" width="120px"><br>
-      <code>[PIXEL_WARRIOR]</code>
-    </td>
-    <td width="33%" align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="50" /><br>
-      <b><font color="#8b0000">ARMOR</font></b><br>
-      <img src="https://img.shields.io/badge/BACKEND-85%25-8b0000?style=for-the-badge&logo=fortinet&logoColor=white" /><br>
-      <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/master/assets/animated-line.gif" width="120px"><br>
-      <code>[LOGIC_TITAN]</code>
-    </td>
-    <td width="33%" align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food%20Drink/Hot%20Beverage.png" width="50" /><br>
-      <b><font color="#ffffff">MANA</font></b><br>
-      <img src="https://img.shields.io/badge/CAFFEINE-100%25-black?style=for-the-badge&logo=buymeacoffee&logoColor=white" /><br>
-      <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/master/assets/animated-line.gif" width="120px"><br>
-      <code>[ESPRESSO_SOUL]</code>
-    </td>
-  </tr>
-</table>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=20&pause=500&color=F70000&center=true&vCenter=true&width=450&height=40&lines=WARNING:+CREATIVITY_OVERFLOW;INJECTING_MAGIC_SEQUENCES...;STATUS:+BEYOND_OPTIMIZED">
 </p>
