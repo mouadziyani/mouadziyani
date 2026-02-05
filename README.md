@@ -1,8 +1,8 @@
 <div align="center">
 
 ### 🎵 NOW VIBING TO...
-<a href="https://open.spotify.com/track/1">
-  <img src="https://novatorem-spotify-player.vercel.app/api/now-playing?uid=mouadziyani&theme=dark&background_color=0b0f19&title_color=ff0000&bar_color=ff0000" width="450px" />
+<a href="https://open.spotify.com/track/34xhlfh5RUmx0AFf8dek9f?si=a7aa02f279a443f7">
+  <img src="https://novatorem-spotify-player.vercel.app/api/now-playing?uid=mouadziyani&theme=dark&background_color=0d1117&title_color=ff0000&bar_color=ff0000" width="450px" />
 </a>
 
 <br />
@@ -21,15 +21,15 @@
 
 ### 🕹️ PLAYER PROFILE (LIVE STATS)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mouadziyani&show_icons=true&theme=radical&title_color=ff0000&icon_color=ff0000&hide_border=true&bg_color=0d1117" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouadziyani&layout=compact&theme=radical&title_color=ff0000&hide_border=true&bg_color=0d1117" height="180px" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mouadziyani&show_icons=true&theme=radical&title_color=ff0000&icon_color=ff0000&hide_border=true&bg_color=0d1117" height="180px" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mouadziyani&layout=compact&theme=radical&title_color=ff0000&hide_border=true&bg_color=0d1117" height="180px" />
 </p>
 
 ---
 
 ### 🐍 CONTRIBUTION QUEST (SNAKE MODE)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mouadziyani/mouadziyani/output/github-contribution-grid-snake.svg" alt="Snake Game" width="100%" />
+  <img src="https://raw.githubusercontent.com/mouadziyani/mouadziyani/output/github-contribution-grid-snake.svg" alt="Snake Game - Run Action to View" width="100%" />
 </p>
 
 ---
@@ -42,11 +42,9 @@
 ---
 
 ### 🚀 CURRENT MISSION: ARCHITECTING THE WEB
-> **Status:** `Optimizing_Algorithms...` | **Location:** `Nador, Morocco`
-
 <div align="left">
 
-#### 🏮 Power Levels (Adaptive Design)
+#### 🏮 Power Levels (Creative RPG Style)
 `HTML/CSS/JS` <br>
 ![95%](https://img.shields.io/badge/-95%25-red?style=for-the-badge) <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/master/assets/animated-line.gif" width="150px">
 
@@ -60,22 +58,10 @@
 
 ---
 
-### 🎮 THE WORKSHOP (PROJECTS)
-
-| Project | Status | Tech Stack | Link |
-| :--- | :---: | :--- | :--- |
-| **Valorunex** | 🟢 Live | `Tailwind` `JS` | [**ENTER**](https://mouadziyani.com) |
-| **Bankly** | 🟡 Dev | `PHP` `Laravel` | [**CODE**](https://github.com/mouadziyani) |
-| **Minerva** | 🔴 Idle | `JavaScript` | [**LINK**](https://mouadziyani.com) |
-
----
-
 ### 🔗 LINK START!
 <p align="center">
 <a href="https://www.linkedin.com/in/mouad-ziyani/"><img src="https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:mouadziyani.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ff0000" /></a>
 </p>
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/master/assets/animated-line.gif" width="100%">
 
 </div>
