@@ -1,9 +1,9 @@
 <div align="center">
 
-### 🎵 NOW VIBING TO...
-<a href="https://open.spotify.com/track/34xhlfh5RUmx0AFf8dek9f?si=a7aa02f279a443f7">
-  <img src="https://novatorem-spotify-player.vercel.app/api/now-playing?uid=mouadziyani&theme=dark&background_color=0d1117&title_color=ff0000&bar_color=ff0000" width="450px" />
-</a>
+### 🎵 CURRENTLY VIBING TO...
+[![Spotify](https://img.shields.io/badge/Spotify-Listening%20to%20Vibes-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/mouadziyani)
+<br>
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=mouadziyani&cover_image=true&theme=dark&show_offline=true&background_color=0d1117&interact=true" width="450px" />
 
 <br />
 
@@ -21,8 +21,8 @@
 
 ### 🕹️ PLAYER PROFILE (LIVE STATS)
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mouadziyani&show_icons=true&theme=radical&title_color=ff0000&icon_color=ff0000&hide_border=true&bg_color=0d1117" height="180px" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mouadziyani&layout=compact&theme=radical&title_color=ff0000&hide_border=true&bg_color=0d1117" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mouadziyani&show_icons=true&theme=vibrant_dark&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=0d1117&hide_border=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouadziyani&layout=compact&theme=vibrant_dark&title_color=ff0000&text_color=ffffff&bg_color=0d1117&hide_border=true" height="180px" />
 </p>
 
 ---
@@ -44,24 +44,30 @@
 ### 🚀 CURRENT MISSION: ARCHITECTING THE WEB
 <div align="left">
 
-#### 🏮 Power Levels (Creative RPG Style)
+#### 🏮 Power Levels
 `HTML/CSS/JS` <br>
 ![95%](https://img.shields.io/badge/-95%25-red?style=for-the-badge) <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/master/assets/animated-line.gif" width="150px">
 
 `PHP/Laravel` <br>
 ![85%](https://img.shields.io/badge/-85%25-darkred?style=for-the-badge) <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/master/assets/animated-line.gif" width="100px">
 
-`Coffee Consumption` <br>
-![100%](https://img.shields.io/badge/-100%25-black?style=for-the-badge) <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/master/assets/animated-line.gif" width="200px">
-
 </div>
 
 ---
 
-### 🔗 LINK START!
+### 🌐 ENTER THE GRID
 <p align="center">
-<a href="https://www.linkedin.com/in/mouad-ziyani/"><img src="https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:mouadziyani.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ff0000" /></a>
+  <a href="https://mouadziyani.com/">
+    <img src="https://img.shields.io/badge/VISIT_PORTFOLIO-FF0000?style=for-the-badge&logo=google-chrome&logoColor=white" height="45px" />
+  </a>
 </p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/mouad-ziyani/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:mouadziyani.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/mouadziyani"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/master/assets/animated-line.gif" width="100%">
 
 </div>
