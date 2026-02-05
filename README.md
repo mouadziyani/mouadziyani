@@ -1,15 +1,6 @@
 <div align="center">
 
-### 🎵 NOW VIBING TO...
-<p align="center">
-  <a href="https://mouadziyani.com/">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=mouadziyani&cover_image=true&theme=dark&show_offline=true&background_color=0d1117&interact=true" width="450px" />
-  </a>
-</p>
-
-<br />
-
-# ⚡ SYSTEM OVERRIDE: ZIYANI MOUAD ⚡
+### ⚡ SYSTEM OVERRIDE: ZIYANI MOUAD ⚡
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&pause=1000&color=F70000&center=true&vCenter=true&width=800&height=100&lines=ZIYANI+MOUAD+ARCHITECT;SYSTEM+STATUS:+OPTIMIZED;FULL-STACK+ENGINEER">
@@ -60,10 +51,22 @@
 
 ---
 
-### 🔗 LINK START!
+### 🔗 LINK START! (CONNECT)
 <p align="center">
-<a href="https://www.linkedin.com/in/mouad-ziyani/"><img src="https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:mouadziyani.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ff0000" /></a>
+  <a href="https://mouadziyani.com/">
+    <img src="https://img.shields.io/badge/VISIT_PORTFOLIO-FF0000?style=for-the-badge&logo=google-chrome&logoColor=white" height="40px" />
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mouad-ziyani/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mouadziyani.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/master/assets/animated-line.gif" width="100%">
 
 </div>
