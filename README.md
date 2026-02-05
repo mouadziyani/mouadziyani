@@ -32,15 +32,6 @@
 
 ---
 
-### 🎵 CURRENTLY VIBING TO...
-<p align="center">
-<a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID_HERE">
-  <img src="https://novatorem-spotify-player.vercel.app/api/now-playing?uid=YOUR_SPOTIFY_ID_HERE&theme=dark&background_color=0b0f19&title_color=ff0000&bar_color=ff0000" width="400px" />
-</a>
-</p>
-
----
-
 ### 🚀 CURRENT MISSION: ARCHITECTING THE WEB
 > **Status:** `Optimizing_Algorithms...`
 > **Location:** `Nador, Morocco (YouCode Campus)`
