@@ -30,7 +30,7 @@
 
 ### 🚀 CURRENT MISSION: ARCHITECTING THE WEB
 > **Status:** `Optimizing_Algorithms...`
-> **Location:** `Oujda, Morocco (YouCode Campus)`
+> **Location:** `Nador, Morocco (YouCode Campus)`
 > **Specialty:** `Premium UI/UX & Robust Backends`
 
 <div align="left">
