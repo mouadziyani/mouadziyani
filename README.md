@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=250&section=header&text=ZIYANI%20MOUAD&fontSize=80&fontColor=ff0000&animation=twinkling&desc=SYSTEM%20ARCHITECT%20|%20FULL-STACK%20ENGINEER&descSize=20&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=250&section=header&text=ZIYANI%20MOUAD&fontSize=80&fontColor=ff0000&animation=twinkling&desc=YouCode%20STUDENT%20|%20FULL-STACK%20DEVELOPPER&descSize=20&descAlignY=65" width="100%"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&pause=1000&color=F70000&center=true&vCenter=true&width=800&height=70&lines=CORE_SEQUENCE:_ACTIVE;BUILDING_DIGITAL_EXPERIENCES;OPTIMIZING_THE_WEB">
