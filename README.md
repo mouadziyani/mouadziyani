@@ -59,7 +59,7 @@
 
 ### 🌌 ACTIVITY NEBULA
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MOEUAED&theme=tokyonight&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mouadziyani&theme=tokyonight&hide_border=true)
 
 ---
 
