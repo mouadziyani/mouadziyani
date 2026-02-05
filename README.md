@@ -14,20 +14,29 @@
 
 ### 🕹️ PLAYER STATS (LIVE DATA)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MOEUAED&show_icons=true&theme=radical&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=0b0f19" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOEUAED&layout=compact&theme=radical&hide_border=true&title_color=ff0000&text_color=ffffff&bg_color=0b0f19" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mouadziyani&show_icons=true&theme=radical&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=0b0f19" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouadziyani&layout=compact&theme=radical&hide_border=true&title_color=ff0000&text_color=ffffff&bg_color=0b0f19" height="180px" />
 </p>
 
 ---
 
 ### 🐍 CONTRIBUTION QUEST
-<img src="https://raw.githubusercontent.com/MOEUAED/MOEUAED/output/github-contribution-grid-snake.svg" alt="Snake Game" width="100%" />
+<img src="https://raw.githubusercontent.com/mouadziyani/mouadziyani/output/github-contribution-grid-snake.svg" alt="Snake Game" width="100%" />
 
 ---
 
 ### 🛠️ ARSENAL (ANIMATED SKILLS)
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,bootstrap,php,laravel,mysql,firebase,nodejs,git,github,vscode,netlify,figma&perline=8" />
+</p>
+
+---
+
+### 🎵 CURRENTLY VIBING TO...
+<p align="center">
+<a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID_HERE">
+  <img src="https://novatorem-spotify-player.vercel.app/api/now-playing?uid=YOUR_SPOTIFY_ID_HERE&theme=dark&background_color=0b0f19&title_color=ff0000&bar_color=ff0000" width="400px" />
+</a>
 </p>
 
 ---
@@ -56,13 +65,13 @@
 | Project | Status | Tech Stack | Link |
 | :--- | :---: | :--- | :--- |
 | **Valorunex** | 🟢 Live | `Tailwind` `JS` | [View](https://mouadziyani.com) |
-| **Bankly** | 🟡 Dev | `PHP` `Laravel` | [Code](https://github.com/MOEUAED) |
+| **Bankly** | 🟡 Dev | `PHP` `Laravel` | [Code](https://github.com/mouadziyani) |
 | **Minerva** | 🔴 Idle | `JavaScript` | [Demo](https://mouadziyani.com) |
 
 ---
 
 ### 🌌 ACTIVITY NEBULA
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MOEUAED&theme=react-dark&bg_color=0b0f19&hide_border=true&color=ff0000)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mouadziyani&theme=react-dark&bg_color=0b0f19&hide_border=true&color=ff0000)
 
 ---
 
