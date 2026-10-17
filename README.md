@@ -1,35 +1,153 @@
+
 <div align="center">
 
-<img src="./assets/level-up-tracker.svg" alt="Level Up Tracker - Ziyani Mouad" width="620"/>
+<h1>✦ LEVEL UP TRACKER ✦</h1>
+<h3>PROGRESS MONITOR</h3>
 
 <p>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=700&height=45&lines=%5B+SYSTEM+NOTIFICATION%3A+PLAYER+HAS+AWAKENED+%5D;CLASS%3A+FULL-STACK+%26+MOBILE+SHADOW+ARCHITECT;ACTIVE+QUEST%3A+BUILDING+HIGH-SCALE+SYSTEMS" alt="Typing SVG"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=18&pause=1200&color=C99BFF&center=true&vCenter=true&width=600&height=40&lines=PLAYER+HAS+AWAKENED;FULL-STACK+%26+MOBILE+DEVELOPER;EVERY+DAY+IS+A+NEW+LEVEL" alt="Player Status" />
 </p>
 
-<h2>⚔️ ARSENAL</h2>
-<img src="https://skillicons.dev/icons?i=java,spring,php,laravel,react,js,jquery,html,css,tailwind,bootstrap,mysql,postgres,firebase,git,github,vscode,figma&perline=9" alt="Arsenal"/>
+<p>
+  <img src="https://img.shields.io/badge/CLASS-SHADOW_ARCHITECT-8654C9?style=for-the-badge&labelColor=21182D" />
+  <img src="https://img.shields.io/badge/RANK-DEVELOPER-C99BFF?style=for-the-badge&labelColor=21182D" />
+</p>
 
-<h2>📊 SYSTEM ANALYTICS</h2>
-<table align="center">
-  <tr>
-    <td align="center" width="50%"><img src="https://github-readme-stats.vercel.app/api?username=mouadziyani&show_icons=true&theme=tokyonight&title_color=c084fc&icon_color=a855f7&border_color=a855f7&bg_color=0f0a1c" width="100%"/></td>
-    <td align="center" width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouadziyani&layout=compact&theme=tokyonight&title_color=c084fc&border_color=a855f7&bg_color=0f0a1c" width="100%"/></td>
-  </tr>
+</div>
+
+---
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+<h3 align="center">✧ SKILLS ✧</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,php,laravel&theme=dark" />
+
+**Backend Sorcery**
+
+<img src="https://skillicons.dev/icons?i=js,react,jquery&theme=dark" />
+
+**Frontend Alchemy**
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" />
+
+**Mobile & UI Crafting**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase&theme=dark" />
+
+**Database Runes**
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode&theme=dark" />
+
+**Developer Arsenal**
+
+</div>
+
+</td>
+<td width="42%" valign="top">
+
+<h3 align="center">✧ PLAYER STATS ✧</h3>
+
+**Experience**
+
+<img src="https://img.shields.io/badge/LEVEL-23-BC83F3?style=flat-square&labelColor=21182D" />
+
+<img src="https://img.shields.io/badge/CLASS-Full--Stack-9B6BD3?style=flat-square&labelColor=21182D" />
+
+**Main Attributes**
+
+| Attribute | Rank |
+|:--|:--:|
+| Focus | ★★★★☆ |
+| Problem Solving | ★★★★☆ |
+| Creativity | ★★★★☆ |
+| Consistency | ★★★★☆ |
+
+**Current Quest**
+
+Building modern web and mobile applications.
+
+</td>
+</tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mouadziyani&theme=tokyonight&background=0f0a1c&border=a855f7&stroke=a855f7&ring=c084fc&fire=c084fc&currStreakNum=c084fc&sideNums=ffffff&sideTitle=c084fc" width="70%" alt="Streak"/>
+---
 
-<h2>📜 QUEST LOG ACTIVITY</h2>
-<img src="https://raw.githubusercontent.com/mouadziyani/mouadziyani/output/github-contribution-grid-snake.svg" alt="Snake" width="100%"/>
+<h3 align="center">✧ EXPERIENCE ✧</h3>
 
-<h2>📡 TRANSMISSION KEYS</h2>
-<p>
-  <a href="https://mouadziyani.com/"><img src="https://img.shields.io/badge/🔮_PORTFOLIO-7E22CE?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/mouad-ziyani/"><img src="https://img.shields.io/badge/🔮_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:contact@mouadziyani.com"><img src="https://img.shields.io/badge/🔮_OFFICIAL_MAIL-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="mailto:mouadziyani.dev@gmail.com"><img src="https://img.shields.io/badge/🔮_DEV_MAIL-6B21A8?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**CURRENT QUEST**
+
+- Developing full-stack applications
+- Improving Java & Spring Boot
+- Exploring mobile development
+- Learning system architecture
+
+</td>
+<td width="50%" valign="top">
+
+**NEXT OBJECTIVES**
+
+- [ ] Master backend architecture
+- [ ] Build production-ready projects
+- [ ] Improve DevOps skills
+- [ ] Ship more personal projects
+
+</td>
+</tr>
+</table>
+
+---
+
+<h3 align="center">✧ ACHIEVEMENTS ✧</h3>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mouadziyani&show_icons=true&hide_border=true&bg_color=171321&title_color=C99BFF&text_color=E6D9F5&icon_color=BA83F5&ring_color=C99BFF" width="49%" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouadziyani&layout=compact&hide_border=true&bg_color=171321&title_color=C99BFF&text_color=E6D9F5" width="49%" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mouadziyani&theme=transparent&hide_border=true&background=171321&ring=C99BFF&fire=E0B0FF&currStreakLabel=C99BFF&sideLabels=C99BFF&currStreakNum=FFFFFF&sideNums=E6D9F5&dates=9B8BAF" width="75%" alt="GitHub Streak" />
+
+</div>
+
+---
+
+<h3 align="center">✧ WEEKLY ACTIVITY ✧</h3>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mouadziyani&bg_color=171321&color=C99BFF&line=AD79E8&point=E0B0FF&area=true&hide_border=true" width="100%" alt="Contribution Activity" />
+
+</div>
+
+---
+
+<h3 align="center">✧ TRANSMISSION PORTAL ✧</h3>
+
+<div align="center">
+
+<a href="https://mouadziyani.com/">
+<img src="https://img.shields.io/badge/PORTFOLIO-9B6BD3?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/mouad-ziyani/">
+<img src="https://img.shields.io/badge/LINKEDIN-6F4A9E?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:mouadziyani.dev@gmail.com">
+<img src="https://img.shields.io/badge/CONTACT-C99BFF?style=for-the-badge&logo=gmail&logoColor=21182D" />
+</a>
+
+<br/><br/>
+
+<sub>✦ SYSTEM ONLINE · KEEP LEVELLING UP ✦</sub>
 
 </div>
