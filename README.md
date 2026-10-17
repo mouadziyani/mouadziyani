@@ -1,21 +1,21 @@
 <div align="center">
 
-  <!-- TOP TITLE BANNER (RPG SYSTEM INTERFACE) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=12072b&height=250&section=header&text=LEVEL%20UP%20SYSTEM&fontSize=65&fontColor=a855f7&animation=twinkling&desc=PLAYER%3A%20ZIYANI%20MOUAD%20%7C%20FULL-STACK%20%26%20MOBILE%20ARCHITECT&descSize=16&descAlignY=65&descAlign=50" width="100%"/>
+  <!-- GAMING HEADER TITLE -->
+  <h1>🎮 PLAYER SYSTEM MENU</h1>
+  <p><b>[ LEVEL UP TRACKER • PROGRESS MONITOR ]</b></p>
 
-  <!-- SYSTEM STATUS TEXT -->
   <p align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=700&height=45&lines=%5B%20SYSTEM%20NOTIFICATION%3A%20PLAYER%20HAS%20AWAKENED%20%5D;CLASS%3A%20FULL-STACK%20%26%20MOBILE%20SHADOW%20ARCHITECT;ACTIVE%20QUEST%3A%20BUILDING%20HIGH-SCALE%20SYSTEMS" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=22&pause=1000&color=D4AF37&center=true&vCenter=true&width=700&height=45&lines=%5B%20SYSTEM%20NOTIFICATION%3A%20PLAYER%20HAS%20AWAKENED%20%5D;CLASS%3A%20FULL-STACK%20%26%20MOBILE%20SHADOW%20ARCHITECT;ACTIVE%20QUEST%3A%20BUILDING%20HIGH-SCALE%20SYSTEMS" alt="Typing SVG" />
     </a>
   </p>
 
   <br/>
 
-  <!-- RPG SYSTEM PANEL: STATS & PROFILE -->
+  <!-- PLAYER STATUS & STREAK MONITOR -->
   <table align="center" width="100%">
     <tr>
-      <td width="55%" valign="top" style="background-color: #0f0a1c;">
+      <td width="55%" valign="top">
         <h3>🔮 PLAYER STATUS</h3>
         <ul>
           <li><b>NAME:</b> Ziyani Mouad</li>
@@ -26,16 +26,16 @@
           <li><b>MP (COFFEE):</b> <code>[█████████░] 90%</code></li>
         </ul>
       </td>
-      <td width="45%" valign="top" align="center" style="background-color: #0f0a1c;">
+      <td width="45%" valign="top" align="center">
         <h3>⚡ STREAK MONITOR</h3>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mouadziyani&theme=tokyonight&background=0f0a1c&border=a855f7&stroke=a855f7&ring=c084fc&fire=c084fc&currStreakNum=c084fc&sideNums=ffffff&sideTitle=c084fc" width="100%" alt="Streak Monitor" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mouadziyani&theme=dark&background=0d1117&border=d4af37&stroke=d4af37&ring=ffd700&fire=ffd700&currStreakNum=ffd700&sideNums=ffffff&sideTitle=ffd700" width="100%" alt="Streak Monitor" />
       </td>
     </tr>
   </table>
 
   <br/>
 
-  <!-- SKILLS & INVENTORY TREE -->
+  <!-- ABILITIES & SKILL TREE -->
   <h2>⚔️ ABILITIES & SKILL TREE</h2>
 
   <table width="100%" align="center">
@@ -73,29 +73,29 @@
 
   <br/>
 
-  <!-- BADGES & ARSENAL -->
+  <!-- ARSENAL BADGES -->
   <p align="center">
     <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,react,js,jquery,html,css,tailwind,bootstrap,mysql,postgres,firebase,git,github,vscode,figma&perline=9" />
   </p>
 
   <br/>
 
-  <!-- GITHUB TERMINAL STATS (DARK PURPLE THEME) -->
+  <!-- SYSTEM ANALYTICS -->
   <h2>📊 SYSTEM ANALYTICS</h2>
   <table align="center">
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=mouadziyani&show_icons=true&theme=tokyonight&title_color=c084fc&icon_color=a855f7&hide_border=false&border_color=a855f7&bg_color=0f0a1c" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=mouadziyani&show_icons=true&theme=luxury&title_color=ffd700&icon_color=d4af37&hide_border=false&border_color=d4af37&bg_color=0d1117" width="100%" />
       </td>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouadziyani&layout=compact&theme=tokyonight&title_color=c084fc&hide_border=false&border_color=a855f7&bg_color=0f0a1c" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouadziyani&layout=compact&theme=luxury&title_color=ffd700&hide_border=false&border_color=d4af37&bg_color=0d1117" width="100%" />
       </td>
     </tr>
   </table>
 
   <br/>
 
-  <!-- QUEST LOG (SNAKE GRAPH) -->
+  <!-- QUEST LOG ACTIVITY -->
   <h2>📜 QUEST LOG ACTIVITY</h2>
   <p align="center">
     <img src="https://raw.githubusercontent.com/mouadziyani/mouadziyani/output/github-contribution-grid-snake.svg" alt="Snake Game" width="100%" />
@@ -103,20 +103,20 @@
 
   <br/>
 
-  <!-- TRANSMISSION KEYS / CONTACT -->
+  <!-- TRANSMISSION KEYS -->
   <h2>📡 TRANSMISSION KEYS</h2>
   <p align="center">
     <a href="https://mouadziyani.com/" target="_blank">
-      <img src="https://img.shields.io/badge/🔮_PORTFOLIO-7E22CE?style=for-the-badge&logo=google-chrome&logoColor=white" />
+      <img src="https://img.shields.io/badge/▶_PORTFOLIO-FFD700?style=for-the-badge&logoColor=black" />
     </a>
     <a href="https://www.linkedin.com/in/mouad-ziyani/" target="_blank">
-      <img src="https://img.shields.io/badge/🔮_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+      <img src="https://img.shields.io/badge/▶_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:contact@mouadziyani.com">
-      <img src="https://img.shields.io/badge/🔮_OFFICIAL_MAIL-A855F7?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/▶_OFFICIAL_MAIL-D4AF37?style=for-the-badge&logo=gmail&logoColor=black" />
     </a>
     <a href="mailto:mouadziyani.dev@gmail.com">
-      <img src="https://img.shields.io/badge/🔮_DEV_MAIL-6B21A8?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/▶_DEV_MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </p>
 
