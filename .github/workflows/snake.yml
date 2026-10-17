@@ -17,6 +17,23 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Preserve existing output branch assets
+        shell: bash
+        run: |
+          mkdir -p dist
+          if git ls-remote --exit-code --heads origin output >/dev/null; then
+            git fetch --no-tags origin output
+            git archive FETCH_HEAD | tar -x -C dist
+          fi
+
+      - name: Generate activity graph
+        run: python scripts/generate_activity_graph.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Generate contribution snake SVGs
         uses: Platane/snk/svg-only@v3
         with:
