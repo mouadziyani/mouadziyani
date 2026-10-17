@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- HEADER BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=250&section=header&text=ZIYANI%20MOUAD&fontSize=70&fontColor=ffffff&animation=twinkling&desc=YOUCODE%20STUDENT%20%7C%20FULL-STACK%20%26%20MOBILE%20DEVELOPER&descSize=18&descAlignY=65" width="100%"/>
+  <!-- HEADER BANNER (FIXED STABLE URL) -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=220&section=header&text=ZIYANI%20MOUAD&fontSize=65&fontColor=ffffff&animation=twinkling&desc=YOUCODE%20STUDENT%20%7C%20FULL-STACK%20%26%20MOBILE%20DEVELOPER&descSize=17&descAlignY=65" width="100%"/>
 
   <br/>
 
@@ -76,10 +76,10 @@
 
   <br/>
 
-  <!-- ACTIVITY GRAPH -->
+  <!-- ACTIVITY GRAPH (FIXED LINK) -->
   <h3>📈 Activity Graph</h3>
   <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mouadziyani&theme=react-dark&hide_border=true&bg_color=0d1117" width="100%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mouadziyani&theme=github-compact&hide_border=true&bg_color=0d1117" width="100%" />
   </p>
 
   <br/>
