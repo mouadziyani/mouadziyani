@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Banner -->
-  <img src="src/img/banner.jpeg" width="100%" alt="Mouad Ziyani profile banner" />
+  <img src="src/img/banner.jpg" width="100%" alt="Mouad Ziyani profile banner" />
 
   <!-- Introduction -->
   <h1>Mouad Ziyani</h1>
