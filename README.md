@@ -66,7 +66,7 @@
 
 <p align="center">
   <a href="https://github.com/mouadziyani">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mouadziyani&amp;bg_color=0d1117&amp;color=c9d1d9&amp;line=8b949e&amp;point=ffffff&amp;area=true&amp;hide_border=true" width="95%" alt="GitHub activity graph for mouadziyani" />
+    <img src="https://raw.githubusercontent.com/mouadziyani/mouadziyani/output/activity-graph.svg" width="95%" alt="GitHub activity graph for mouadziyani" />
   </a>
 </p>
 
