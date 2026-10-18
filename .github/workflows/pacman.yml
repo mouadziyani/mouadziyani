@@ -1,9 +1,8 @@
-name: Generate contribution snake
+name: Update Pac-Man contribution graph
 
 on:
-  # Refresh daily for activity outside this repository.
   schedule:
-    - cron: "17 0 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -12,13 +11,20 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: generated-profile-assets
+  cancel-in-progress: false
+
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 20
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
+
+      - name: Test activity graph generator
+        run: python -m unittest discover -s scripts -p 'test_*.py' -v
 
       - name: Preserve existing output branch assets
         shell: bash
@@ -28,21 +34,22 @@ jobs:
             git fetch --no-tags origin output
             git archive FETCH_HEAD | tar -x -C dist
           fi
+          rm -f dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg
 
       - name: Generate activity graph
         run: python scripts/generate_activity_graph.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate contribution snake SVGs
-        uses: Platane/snk/svg-only@v3
+      - name: Generate Pac-Man contribution graph
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: mouadziyani
-          outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=%23ff0000&color_dots=%23161b22,%237f1d1d,%23b91c1c,%23ef4444,%23ff0000
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23ff0000&color_dots=%23161b22,%237f1d1d,%23b91c1c,%23ef4444,%23ff0000
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          games: pacman
+          hide_month_labels: "false"
 
-      - name: Publish SVGs to output branch
+      - name: Publish generated SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
