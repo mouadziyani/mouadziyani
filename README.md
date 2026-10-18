@@ -86,7 +86,7 @@
 <h2 align="center">🟡 Pac-Man Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mouadziyani/mouadziyani/output/pacman-contribution-graph-dark.svg" width="95%" alt="Pac-Man animation across mouadziyani's GitHub contribution graph" />
+  <img src="https://raw.githubusercontent.com/mouadziyani/mouadziyani/output/pacman-contribution-graph.svg" width="95%" alt="Pac-Man animation across mouadziyani's GitHub contribution graph" />
 </p>
 
 <hr />
