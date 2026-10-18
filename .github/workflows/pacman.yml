@@ -1,4 +1,4 @@
-name: Update Pac-Man contribution graph
+name: Update profile activity graphs
 
 on:
   schedule:
@@ -34,8 +34,6 @@ jobs:
             git fetch --no-tags origin output
             git archive FETCH_HEAD | tar -x -C dist
           fi
-          rm -f dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg
-
       - name: Generate activity graph
         run: python scripts/generate_activity_graph.py
         env:

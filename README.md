@@ -1,97 +1,73 @@
 <div align="center">
 
-  <!-- Banner -->
   <img src="src/img/banner.jpg" width="100%" alt="Mouad Ziyani profile banner" />
 
-  <!-- Introduction -->
   <h1>Mouad Ziyani</h1>
   <p><strong>Full-Stack Web &amp; Mobile Developer</strong></p>
-  <p>YouCode student, passionate about building scalable web applications and mobile experiences.</p>
+  <p>YouCode student building web applications and mobile experiences.</p>
 
 </div>
 
-<hr />
+---
 
-<!-- About Me -->
-<h2>🚀 About Me</h2>
+## About Me
 
-<p>So here's the code ☕ I'm a Full-Stack &amp; Mobile Developer and student at YouCode (UM6P ecosystem).</p>
+I’m a full-stack and mobile developer and a student in the YouCode program within the UM6P ecosystem. I build web applications and mobile solutions using Java, Spring Boot, PHP, Laravel, JavaScript, React, and React Native, with a focus on clean architecture, maintainable code, and turning ideas into working products.
 
-<p>I build web applications and mobile solutions using Java, Spring Boot, PHP, Laravel, JavaScript, React, and React Native.</p>
+## Connect
 
-<p>My workflow is simple: ideate a concept, build it, optimize it, and ship it. I focus on clean architecture, maintainable code, and turning ideas into working products.</p>
+<div align="center">
 
-<hr />
+[![Portfolio](https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mouadziyani.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/mouad-ziyani/)
+[![Email](https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@mouadziyani.com)
+[![Developer Email](https://img.shields.io/badge/Developer%20Email-161b22?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mouadziyani.dev@gmail.com)
 
-<!-- Connect -->
-<h2 align="center">🤝 Connect</h2>
+</div>
 
-<p align="center">
-  <a href="https://mouadziyani.com/"><img src="https://img.shields.io/badge/Portfolio-161b22?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/mouad-ziyani/"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&amp;logo=linkedin&amp;logoColor=0A66C2" alt="LinkedIn" /></a>
-  <a href="mailto:contact@mouadziyani.com"><img src="https://img.shields.io/badge/Official%20Email-161b22?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Official email" /></a>
-  <a href="mailto:mouadziyani.dev@gmail.com"><img src="https://img.shields.io/badge/Developer%20Email-161b22?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Developer email" /></a>
-</p>
+## Tech Stack
 
-<hr />
+<div align="center">
 
-<!-- Tech Stack -->
-<h2 align="center">💻 Tech Stack</h2>
+<img src="https://skillicons.dev/icons?i=java,spring,php,laravel,js,react,html,css,tailwind,bootstrap&perline=10" alt="Java, Spring Boot, PHP, Laravel, JavaScript, React, HTML, CSS, Tailwind CSS, and Bootstrap" />
+<br />
+<img src="https://skillicons.dev/icons?i=jquery,mysql,postgres,firebase,git,github,vscode,figma&perline=8" alt="jQuery, MySQL, PostgreSQL, Firebase, Git, GitHub, Visual Studio Code, and Figma" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,js,react,html,css,tailwind,bootstrap&amp;perline=10" alt="Java, Spring Boot, PHP, Laravel, JavaScript, React, HTML, CSS, Tailwind CSS, Bootstrap" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=jquery,mysql,postgres,firebase,git,github,vscode,figma&amp;perline=8" alt="jQuery, MySQL, PostgreSQL, Firebase, Git, GitHub, VS Code, Figma" />
-</p>
-<p align="center"><sub>React Native uses the React icon.</sub></p>
+</div>
 
-<hr />
+## GitHub Stats
 
-<!-- GitHub Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/mouadziyani">
-    <img src="https://github-readme-stats.vercel.app/api?username=mouadziyani&amp;show_icons=true&amp;locale=en&amp;bg_color=1F242C&amp;title_color=C9D1D9&amp;text_color=C9D1D9&amp;icon_color=3B82F6&amp;border_color=3B82F6" width="495" alt="GitHub statistics for mouadziyani" />
-  </a>
-</p>
+<a href="https://github.com/mouadziyani"><img src="https://github-readme-stats.vercel.app/api?username=mouadziyani&amp;show_icons=true&amp;locale=en&amp;bg_color=0d1117&amp;title_color=c9d1d9&amp;text_color=c9d1d9&amp;icon_color=58a6ff&amp;border_color=30363d" width="49%" alt="GitHub statistics for mouadziyani" /></a>
+<a href="https://github.com/mouadziyani"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mouadziyani&amp;locale=en&amp;layout=compact&amp;bg_color=0d1117&amp;title_color=c9d1d9&amp;text_color=c9d1d9&amp;border_color=30363d" width="49%" alt="Top languages for mouadziyani" /></a>
+<br />
+<a href="https://github.com/mouadziyani"><img src="https://streak-stats.demolab.com?user=mouadziyani&amp;background=0d1117&amp;ring=58a6ff&amp;fire=58a6ff&amp;currStreakLabel=c9d1d9&amp;sideLabels=c9d1d9&amp;currStreakNum=c9d1d9&amp;sideNums=c9d1d9&amp;dates=8b949e&amp;border=30363d" width="70%" alt="GitHub contribution streak for mouadziyani" /></a>
 
-<p align="center">
-  <a href="https://github.com/mouadziyani">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mouadziyani&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;bg_color=1F242C&amp;title_color=C9D1D9&amp;text_color=C9D1D9&amp;border_color=3B82F6" width="495" alt="Top programming languages for mouadziyani" />
-  </a>
-</p>
+</div>
 
-<p align="center">
-  <a href="https://github.com/mouadziyani">
-    <img src="https://streak-stats.demolab.com?user=mouadziyani&amp;background=1F242C&amp;ring=3B82F6&amp;fire=3B82F6&amp;currStreakLabel=C9D1D9&amp;sideLabels=C9D1D9&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;dates=C9D1D9&amp;border_radius=5" width="495" alt="GitHub contribution streak for mouadziyani" />
-  </a>
-</p>
+## Activity Graph
 
-<hr />
+<div align="center">
 
-<!-- Activity Graph: generated by scripts/generate_activity_graph.py and published to the output branch -->
-<h2 align="center">📈 Activity Graph</h2>
+<a href="https://github.com/mouadziyani"><img src="https://raw.githubusercontent.com/mouadziyani/mouadziyani/output/activity-graph.svg" width="100%" alt="Public GitHub commit activity over the last twelve months" /></a>
 
-<p align="center">
-  <a href="https://github.com/mouadziyani">
-    <img src="https://raw.githubusercontent.com/mouadziyani/mouadziyani/output/activity-graph.svg" width="95%" alt="Public GitHub commit activity over the last twelve months" />
-  </a>
-</p>
-<p align="center"><sub>Counts public commits by author date; this is not GitHub's official contribution calendar or total.</sub></p>
+</div>
 
-<hr />
+<p align="center"><sub>Monthly public commit search results by author date; this is not GitHub’s official contribution total.</sub></p>
 
-<!-- Pac-Man Contribution Graph: generated by .github/workflows/pacman.yml -->
-<h2 align="center">🟡 Pac-Man Contribution Graph</h2>
+## Pac-Man Contribution Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mouadziyani/mouadziyani/output/pacman-contribution-graph.svg" width="95%" alt="Pac-Man animation across mouadziyani's GitHub contribution graph" />
-</p>
+<div align="center">
 
-<hr />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mouadziyani/mouadziyani/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mouadziyani/mouadziyani/output/pacman-contribution-graph.svg" />
+  <img src="https://raw.githubusercontent.com/mouadziyani/mouadziyani/output/pacman-contribution-graph.svg" width="100%" alt="Pac-Man animation across mouadziyani’s GitHub contribution graph" />
+</picture>
 
-<!-- Philosophy -->
-<h2 align="center">⌘ Philosophy</h2>
+</div>
 
-<p align="center"><i>“Simplicity is prerequisite for reliability.”</i><br />— Edsger W. Dijkstra</p>
+---
+
+<p align="center"><sub>Activity graphs are refreshed by GitHub Actions on a schedule and after pushes to <code>main</code>. See <code>.github/workflows/pacman.yml</code>.</sub></p>
