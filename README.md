@@ -69,5 +69,3 @@ I’m a full-stack and mobile developer and a student in the YouCode program wit
 </div>
 
 ---
-
-<p align="center"><sub>Activity graphs are refreshed by GitHub Actions on a schedule and after pushes to <code>main</code>. See <code>.github/workflows/pacman.yml</code>.</sub></p>
