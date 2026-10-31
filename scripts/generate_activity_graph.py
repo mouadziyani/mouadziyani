@@ -108,36 +108,36 @@ def render_svg(labels: list[str], counts: list[int], unavailable: bool = False) 
         f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {WIDTH} {HEIGHT}" role="img" aria-labelledby="title desc">',
         '<title id="title">Public commit activity for the last twelve months</title>',
         '<desc id="desc">Monthly counts from GitHub commit search by author date. This is not GitHub official contribution data.</desc>',
-        '<rect width="100%" height="100%" rx="8" fill="#1F242C"/>',
-        '<rect x="0.5" y="0.5" width="959" height="299" rx="8" fill="none" stroke="#3B82F6" stroke-opacity="0.45"/>',
-        '<text x="28" y="30" fill="#C9D1D9" font-family="system-ui,Segoe UI,sans-serif" font-size="17" font-weight="600">Public commit activity - last 12 months</text>',
-        '<text x="28" y="50" fill="#C9D1D9" fill-opacity="0.72" font-family="system-ui,Segoe UI,sans-serif" font-size="11">GitHub commit search, grouped by author date - not official contribution totals</text>',
+        '<rect width="100%" height="100%" fill="#FFFDF8"/>',
+        '<rect x="2" y="2" width="956" height="296" fill="none" stroke="#121212" stroke-width="4"/>',
+        '<text x="28" y="30" fill="#121212" font-family="system-ui,Segoe UI,sans-serif" font-size="17" font-weight="600">Public commit activity - last 12 months</text>',
+        '<text x="28" y="50" fill="#121212" fill-opacity="0.72" font-family="system-ui,Segoe UI,sans-serif" font-size="11">GitHub commit search, grouped by author date - not official contribution totals</text>',
     ]
 
     for tick in range(5):
         value = (axis_max * tick) // 4
         y = bottom - plot_height * tick / 4
-        parts.append(f'<line x1="{left}" y1="{y:.1f}" x2="{right}" y2="{y:.1f}" stroke="#3B82F6" stroke-opacity="0.25" stroke-width="1"/>')
-        parts.append(f'<text x="{left - 12}" y="{y + 4:.1f}" text-anchor="end" fill="#C9D1D9" fill-opacity="0.72" font-family="system-ui,Segoe UI,sans-serif" font-size="10">{value}</text>')
+        parts.append(f'<line x1="{left}" y1="{y:.1f}" x2="{right}" y2="{y:.1f}" stroke="#121212" stroke-opacity="0.15" stroke-width="1"/>')
+        parts.append(f'<text x="{left - 12}" y="{y + 4:.1f}" text-anchor="end" fill="#121212" fill-opacity="0.72" font-family="system-ui,Segoe UI,sans-serif" font-size="10">{value}</text>')
 
     if unavailable:
-        parts.append(f'<text x="{(left + right) / 2}" y="{top + plot_height / 2:.1f}" text-anchor="middle" fill="#C9D1D9" font-family="system-ui,Segoe UI,sans-serif" font-size="14">Activity data unavailable - retry on the next refresh</text>')
+        parts.append(f'<text x="{(left + right) / 2}" y="{top + plot_height / 2:.1f}" text-anchor="middle" fill="#121212" font-family="system-ui,Segoe UI,sans-serif" font-size="14">Activity data unavailable - retry on the next refresh</text>')
     else:
         slot = plot_width / len(labels)
         bar_width = min(34, slot * 0.56)
         if maximum == 0:
-            parts.append(f'<text x="{(left + right) / 2}" y="{top + plot_height / 2:.1f}" text-anchor="middle" fill="#C9D1D9" fill-opacity="0.72" font-family="system-ui,Segoe UI,sans-serif" font-size="12">No matching public commits in this period</text>')
+            parts.append(f'<text x="{(left + right) / 2}" y="{top + plot_height / 2:.1f}" text-anchor="middle" fill="#121212" fill-opacity="0.72" font-family="system-ui,Segoe UI,sans-serif" font-size="12">No matching public commits in this period</text>')
         for index, (label, count) in enumerate(zip(labels, counts)):
             center = left + slot * (index + 0.5)
             bar_height = plot_height * count / axis_max
             if count:
                 x, y = center - bar_width / 2, bottom - bar_height
-                parts.append(f'<rect x="{x:.1f}" y="{y:.1f}" width="{bar_width:.1f}" height="{bar_height:.1f}" rx="3" fill="#3B82F6"><title>{html.escape(label)}: {count} public commits</title></rect>')
-            parts.append(f'<text x="{center:.1f}" y="{bottom + 19}" text-anchor="middle" fill="#C9D1D9" fill-opacity="0.72" font-family="system-ui,Segoe UI,sans-serif" font-size="10">{html.escape(label)}</text>')
+                parts.append(f'<rect x="{x:.1f}" y="{y:.1f}" width="{bar_width:.1f}" height="{bar_height:.1f}" rx="3" fill="#D92632" stroke="#121212" stroke-width="2"><title>{html.escape(label)}: {count} public commits</title></rect>')
+            parts.append(f'<text x="{center:.1f}" y="{bottom + 19}" text-anchor="middle" fill="#121212" fill-opacity="0.72" font-family="system-ui,Segoe UI,sans-serif" font-size="10">{html.escape(label)}</text>')
 
     parts.extend([
-        f'<text x="18" y="{(top + bottom) / 2:.1f}" transform="rotate(-90 18 {(top + bottom) / 2:.1f})" text-anchor="middle" fill="#C9D1D9" font-family="system-ui,Segoe UI,sans-serif" font-size="11">Public commits</text>',
-        '<text x="506" y="278" text-anchor="middle" fill="#C9D1D9" fill-opacity="0.72" font-family="system-ui,Segoe UI,sans-serif" font-size="10">Month (GitHub search results; public repositories only)</text>',
+        f'<text x="18" y="{(top + bottom) / 2:.1f}" transform="rotate(-90 18 {(top + bottom) / 2:.1f})" text-anchor="middle" fill="#121212" font-family="system-ui,Segoe UI,sans-serif" font-size="11">Public commits</text>',
+        '<text x="506" y="278" text-anchor="middle" fill="#121212" fill-opacity="0.72" font-family="system-ui,Segoe UI,sans-serif" font-size="10">Month (GitHub search results; public repositories only)</text>',
         '</svg>',
     ])
     return "\n".join(parts) + "\n"
