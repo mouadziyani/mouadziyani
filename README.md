@@ -40,7 +40,7 @@
 
 <img src="src/svg/chapter-04.svg" width="100%" alt="Chapter 04 — The journey" />
 
-<img src="src/svg/journey.svg" width="100%" alt="2025–now: Full-Stack Developer, YouCode Nador. 2025: Full-Stack Development, Atlantic. 2022–2025: Computer Engineering Studies, Faculty of Science Oujda. 2022: High School Diploma, Technical High School." />
+<img src="src/svg/journey.svg" width="100%" alt="2025–2027: Java Full-Stack Developer, YouCode Nador. 2025: Full-Stack Development, Atlantic. 2022–2025: Computer Engineering Studies, Faculty of Science Oujda. 2022: High School Diploma, Technical High School." />
 
 <br />
 

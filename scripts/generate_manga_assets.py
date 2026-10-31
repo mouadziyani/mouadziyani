@@ -400,8 +400,8 @@ def render_next_time() -> str:
 
 
 JOURNEY = [
-    ("2025 — NOW", "Full-Stack Developer", "YouCode, Nador",
-     "Comprehensive training in full-stack web development."),
+    ("2025 — 2027", "Java Full-Stack Developer", "YouCode, Nador",
+     "Comprehensive training in Java full-stack web development."),
     ("2025", "Full-Stack Development", "Atlantic", "Web development basics."),
     ("2022 — 2025", "Computer Engineering Studies", "Faculty of Science, Oujda",
      "Python, C, algorithms, web basics, computer architecture and operating systems."),
