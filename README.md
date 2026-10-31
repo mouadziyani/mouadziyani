@@ -54,11 +54,7 @@
 
 <sub>Monthly public commit search results by author date; this is not GitHub’s official contribution total.</sub>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mouadziyani/mouadziyani/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mouadziyani/mouadziyani/output/pacman-contribution-graph.svg" />
-  <img src="https://raw.githubusercontent.com/mouadziyani/mouadziyani/output/pacman-contribution-graph.svg" width="100%" alt="Pac-Man eating mouadziyani’s GitHub contribution graph" />
-</picture>
+<a href="https://github.com/mouadziyani"><img src="https://raw.githubusercontent.com/mouadziyani/mouadziyani/output/pacman-contribution-graph.svg" width="100%" alt="Pac-Man eating mouadziyani’s GitHub contribution graph" /></a>
 
 </div>
 
